@@ -1,16 +1,25 @@
-### Hi there 👋
+# chaspy (Takeshi Kondo)
 
-<!--
-**chaspy/chaspy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+See also https://chaspy.me for public profiles.
 
-Here are some ideas to get you started:
+## Open Source
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### GitHub Action
+
+- https://github.com/chaspy/magicpod-datadog-action
+- https://github.com/chaspy/github-action-promote-member-to-team-maintainer
+
+### new Slack Platform (deno)
+
+- https://github.com/chaspy/slack-ask-chatgpt
+- https://github.com/chaspy/slack-new-custom-emoji-notify
+- https://github.com/chaspy/hanakintaro
+
+### Prometheus Exporter
+- https://github.com/chaspy/aws-rds-engine-version-prometheus-exporter
+- https://github.com/chaspy/github-pr-prometheus-exporter
+- https://github.com/chaspy/github-issue-prometheus-exporter
+- https://github.com/chaspy/aws-ecr-image-scan-findings-prometheus-exporter
+- https://github.com/chaspy/aws-rds-maxcon-prometheus-exporter
+- https://github.com/chaspy/aws-config-compliance-prometheus-exporter
+- https://github.com/chaspy/circleci-insights-prometheus-exporter
