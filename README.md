@@ -8,7 +8,7 @@ See also https://chaspy.me for public profiles.
 
 | name                                                 | badges                                                                                                                           | lang | short description                                                                 |
 | ---------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- | ---- | --------------------------------------------------------------------------------- |
-| [gh-pr-count](https://github.com/chaspy/gh-pr-count) | [![GitHub last commit](https://img.shields.io/github/last-commit/chaspy/gh-pr-count.svg)](https://github.com/chaspy/gh-pr-count) | Go   | gh extension to count the number of PRs with the same label as the directory name |
+| [gh-monorepo-pr-count](https://github.com/chaspy/gh-monorepo-pr-count) | [![GitHub last commit](https://img.shields.io/github/last-commit/chaspy/gh-monorepo-pr-count.svg)](https://github.com/chaspy/gh-monorepo-pr-count) | Go   | gh extension to count the number of PRs with the same label as the directory name for monorepo |
 
 ### GitHub Action
 
