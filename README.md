@@ -4,12 +4,18 @@ See also https://chaspy.me for public profiles.
 
 ## OSS Development
 
+### gh extension
+
+| name                                                 | badges                                                                                                                           | lang | short description                                                                 |
+| ---------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- | ---- | --------------------------------------------------------------------------------- |
+| [gh-pr-count](https://github.com/chaspy/gh-pr-count) | [![GitHub last commit](https://img.shields.io/github/last-commit/chaspy/gh-pr-count.svg)](https://github.com/chaspy/gh-pr-count) | Go   | gh extension to count the number of PRs with the same label as the directory name |
+
 ### GitHub Action
 
-| name                                                                                                                         | badges                                                                                                                                                                                                   | lang         | short description                          |
-| ---------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | ------------------------------------------ |
-| [magicpod-datadog-action](https://github.com/chaspy/magicpod-datadog-action)                                                 | [![GitHub last commit](https://img.shields.io/github/last-commit/chaspy/magicpod-datadog-action.svg)](https://github.com/chaspy/meagicpod-datadog-action)                                                | TypeScript   | Send metric of MagicPod to Datadog         |
-| [autify-datadog-action](https://github.com/chaspy/autify-datadog-action)                                                 | [![GitHub last commit](https://img.shields.io/github/last-commit/chaspy/autify-datadog-action.svg)](https://github.com/chaspy/autify-datadog-action)                                                | TypeScript   | Send metric of Autify to Datadog         |
+| name                                                                         | badges                                                                                                                                                   | lang       | short description                  |
+| ---------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ---------------------------------- |
+| [magicpod-datadog-action](https://github.com/chaspy/magicpod-datadog-action) | [![GitHub last commit](https://img.shields.io/github/last-commit/chaspy/magicpod-datadog-action.svg)](https://github.com/chaspy/magicpod-datadog-action) | TypeScript | Send metric of MagicPod to Datadog |
+| [autify-datadog-action](https://github.com/chaspy/autify-datadog-action)     | [![GitHub last commit](https://img.shields.io/github/last-commit/chaspy/autify-datadog-action.svg)](https://github.com/chaspy/autify-datadog-action)     | TypeScript | Send metric of Autify to Datadog   |
 
 ### new Slack Platform (deno)
 
