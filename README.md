@@ -9,6 +9,9 @@ See also https://chaspy.me for public profiles.
 | name                                                 | badges                                                                                                                           | lang | short description                                                                 |
 | ---------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- | ---- | --------------------------------------------------------------------------------- |
 | [gh-monorepo-pr-count](https://github.com/chaspy/gh-monorepo-pr-count) | [![GitHub last commit](https://img.shields.io/github/last-commit/chaspy/gh-monorepo-pr-count.svg)](https://github.com/chaspy/gh-monorepo-pr-count) | Go   | gh extension to count the number of PRs with the same label as the directory name for monorepo |
+| [gh-monorepo-stats](https://github.com/chaspy/gh-monorepo-stats) | [![GitHub last commit](https://img.shields.io/github/last-commit/chaspy/gh-monorepo-stats.svg)](https://github.com/chaspy/gh-monorepo-stats) | Go   | gh extension to output language-specific statistics for services in monorepo |
+
+
 
 ### GitHub Action
 
