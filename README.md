@@ -24,9 +24,7 @@ See also https://chaspy.me for public profiles.
 
 | name                                                                                     | badges                                                                                                                                       | lang       | short description                              |
 | ---------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ---------------------------------------------- |
-| [slack-ask-chatgpt](https://github.com/chaspy/slack-ask-chatgpt)                         | [![GitHub last commit](https://img.shields.io/github/last-commit/chaspy/slack-ask-chatgpt.svg)](https://github.com/chaspy/slack-ask-chatgpt) | TypeScript | chatGPT bot                                    |
 | [slack-new-custom-emoji-notify](https://github.com/chaspy/slack-new-custom-emoji-notify) | [![GitHub last commit](https://img.shields.io/github/last-commit/chaspy/slack-new-custom-emoji-notify.svg)](https://github.com/chaspy/{})    | TypeScript | Notify a new custom emoji when added           |
-| [hanakintaro](https://github.com/chaspy/hanakintaro)                                     | [![GitHub last commit](https://img.shields.io/github/last-commit/chaspy/hanakintaro.svg)](https://github.com/chaspy/hanakintaro)             | TypeScript | hobby app. You can ask Today is hanakin or not |
 
 ### Prometheus Exporter
 
