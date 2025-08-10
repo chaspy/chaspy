@@ -26,6 +26,15 @@ See also https://chaspy.me for public profiles.
 | ---------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ---------------------------------------------- |
 | [slack-new-custom-emoji-notify](https://github.com/chaspy/slack-new-custom-emoji-notify) | [![GitHub last commit](https://img.shields.io/github/last-commit/chaspy/slack-new-custom-emoji-notify.svg)](https://github.com/chaspy/{})    | TypeScript | Notify a new custom emoji when added           |
 
+### CLI Tools
+
+| name                                                                                     | badges                                                                                                                                       | lang       | short description                              |
+| ---------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ---------------------------------------------- |
+| [get-sonar-feedback](https://github.com/chaspy/get-sonar-feedback) | [![GitHub last commit](https://img.shields.io/github/last-commit/chaspy/get-sonar-feedback.svg)](https://github.com/chaspy/get-sonar-feedback) | TypeScript | A CLI tool to fetch SonarCloud feedback for pull requests directly from your terminal |
+| [workbloom](https://github.com/chaspy/workbloom) | [![GitHub last commit](https://img.shields.io/github/last-commit/chaspy/workbloom.svg)](https://github.com/chaspy/workbloom) | Rust | A Git worktree management tool that automates worktree setup and file copying |
+| [branch2ports](https://github.com/chaspy/branch2ports) | [![GitHub last commit](https://img.shields.io/github/last-commit/chaspy/branch2ports.svg)](https://github.com/chaspy/branch2ports) | TypeScript | A CLI tool that dynamically generates port numbers based on repository and branch names |
+| [ccstats](https://github.com/chaspy/ccstats) | [![GitHub last commit](https://img.shields.io/github/last-commit/chaspy/ccstats.svg)](https://github.com/chaspy/ccstats) | TypeScript | Claude Code session statistics tool - View statistics for your Claude Code sessions |
+
 ### Prometheus Exporter
 
 | name                                                                                                                         | badges                                                                                                                                                                                                   | lang | short description                           |
